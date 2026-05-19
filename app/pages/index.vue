@@ -98,7 +98,11 @@
                     >
                     <v-combobox
                     label="Gender"
-                    :items="['Male', 'Female', 'LGBTQ']"
+                    :items="['Male', 'Female', 'LGBTQ'
+
+
+                        
+                    ]"
                     ></v-combobox>
                     </v-col>
 
